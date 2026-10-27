@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Runtime outputs
+resultados/
+debug_ocr.log
+runs/
+
+# Training data and base weights (not distributed)
+data/
+dataset/
+crops/
+labeling_progress.json
+/yolo*.pt

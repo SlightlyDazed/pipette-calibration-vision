@@ -1,0 +1,27 @@
+{
+  "balanza": {
+    "modelo": "Mettler Toledo AX105 DeltaRange",
+    "rango_operacion": "fino",
+    "u_repetibilidad_mg": 0.02,
+    "u_linealidad_mg": 0.08,
+    "u_certificado_mg": null,
+    "fecha_certificado": "",
+    "vigencia_certificado": ""
+  },
+  "termometro_agua": {
+    "modelo": "Traceable Excursion-Trac",
+    "u_temp_C": 0.25,
+    "u_certificado_C": null,
+    "fecha_certificado": "",
+    "vigencia_certificado": ""
+  },
+  "termohigrobarometro": {
+    "modelo": "Extech SD700",
+    "u_temp_C": 0.8,
+    "u_humedad_pct_lectura": 0.04,
+    "u_humedad_pct_offset": 1.0,
+    "u_presion_hPa": 1.0,
+    "fecha_certificado": "",
+    "vigencia_certificado": ""
+  }
+}

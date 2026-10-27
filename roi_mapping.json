@@ -1,0 +1,68 @@
+[
+    {
+        "index": 0,
+        "yolo_class": "roi_green",
+        "coords": [
+            422,
+            192,
+            758,
+            409
+        ],
+        "user_label": "Humedad relativa"
+    },
+    {
+        "index": 1,
+        "yolo_class": "roi_white",
+        "coords": [
+            1275,
+            307,
+            1596,
+            480
+        ],
+        "user_label": "Temperatura promedio"
+    },
+    {
+        "index": 2,
+        "yolo_class": "roi_green",
+        "coords": [
+            412,
+            409,
+            758,
+            639
+        ],
+        "user_label": "Temperatura ambiental"
+    },
+    {
+        "index": 3,
+        "yolo_class": "roi_white",
+        "coords": [
+            1369,
+            465,
+            1567,
+            588
+        ],
+        "user_label": "Temperatura minima"
+    },
+    {
+        "index": 4,
+        "yolo_class": "roi_white",
+        "coords": [
+            1344,
+            578,
+            1572,
+            705
+        ],
+        "user_label": "Temperatura maxima"
+    },
+    {
+        "index": 5,
+        "yolo_class": "roi_green",
+        "coords": [
+            317,
+            628,
+            751,
+            864
+        ],
+        "user_label": "Presion atmosferica"
+    }
+]

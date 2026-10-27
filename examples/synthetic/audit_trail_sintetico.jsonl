@@ -1,0 +1,11 @@
+{"timestamp": "2026-10-27T16:25:05.919149", "action": "MEASURE_VALID_ISO", "entry_num": 1, "operator": "Operador de prueba", "data_hash": "d8ecbaab24e72c6746222a554ebff77cf616f34f49ea11686284e3b97ad34d7c"}
+{"timestamp": "2026-10-27T16:25:05.919201", "action": "MEASURE_VALID_ISO", "entry_num": 2, "operator": "Operador de prueba", "data_hash": "a376afbb5f3fd3acf63ac2138e0b88139f5707225129de6912725ba1452d39a0"}
+{"timestamp": "2026-10-27T16:25:05.919213", "action": "MEASURE_VALID_ISO", "entry_num": 3, "operator": "Operador de prueba", "data_hash": "73b35218bd4a1f3228e17c7b37b81479e50d5be0c348aa7233bba50fd6f5456e"}
+{"timestamp": "2026-10-27T16:25:05.919222", "action": "MEASURE_VALID_ISO", "entry_num": 4, "operator": "Operador de prueba", "data_hash": "3902d483f6d44cec37db70af78c0f73200766b474adaf18f052b4941958b4467"}
+{"timestamp": "2026-10-27T16:25:05.919230", "action": "MEASURE_VALID_ISO", "entry_num": 5, "operator": "Operador de prueba", "data_hash": "52edb13a55713107521a9b04b2c147c644f806868210aa71f85c6c564b6c24f7"}
+{"timestamp": "2026-10-27T16:25:05.919237", "action": "MEASURE_VALID_ISO", "entry_num": 6, "operator": "Operador de prueba", "data_hash": "9bec79378de7fbf3024c9adab34dd1749dea968529e2dbc15b1992823b525e26"}
+{"timestamp": "2026-10-27T16:25:05.919243", "action": "MEASURE_VALID_ISO", "entry_num": 7, "operator": "Operador de prueba", "data_hash": "fc731be09094c4536e96677afe45ebd681bfe6ae7d26bd452edad7cb57e38340"}
+{"timestamp": "2026-10-27T16:25:05.919250", "action": "MEASURE_VALID_ISO", "entry_num": 8, "operator": "Operador de prueba", "data_hash": "10ce6b8103fe54b7c51e086494502a8bf884c396b6cbb53f0d66ba5dc4346cd8"}
+{"timestamp": "2026-10-27T16:25:05.919256", "action": "MEASURE_VALID_ISO", "entry_num": 9, "operator": "Operador de prueba", "data_hash": "31699f71cfdae39405c611bb588b6304c3a36eef8a80ffd17630caa15746b447"}
+{"timestamp": "2026-10-27T16:25:05.919262", "action": "MEASURE_VALID_ISO", "entry_num": 10, "operator": "Operador de prueba", "data_hash": "2960317ec258e41b22f132834e6787137ac64789f476f79f63368b1b93c6442c"}
+{"timestamp": "2026-10-27T16:25:05.919269", "action": "SESSION_COMPLETE", "entry_num": 10, "operator": "Operador de prueba", "data_hash": "679e17fd14cf8721b8f01d8d4ca22db7ac1930e1f45a4ae6ecb14f2977beb883"}
